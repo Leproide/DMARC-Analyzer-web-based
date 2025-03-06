@@ -24,14 +24,6 @@ A simple web-based utility for parsing and reading DMARC reports, featuring host
 - **Charts powered by:** [Chart.js](https://github.com/chartjs)
 
 
-## File Structure
-/dmarc-analyzer
-│── index.html        # Main interface
-│── chart.js          # Chart.js UMD bundle (local copy)
-│── resolve.php       # PHP script for reverse DNS lookups
-
-
-
 ## Screenshots
 
 Upload an XML file, enter the domain name (used for the page title), and click **"Generate Report"**.
